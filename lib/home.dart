@@ -48,7 +48,7 @@ class _HomeState extends State<Home> {
       ),
       body: Builder(builder: (BuildContext context) {
         return WebView(
-          initialUrl: 'https://www.terabox.com/wap/share/filelist?surl=nxtoDTdm6mynSKL1XyA2sw',
+          initialUrl: 'https://www.google.com/',
           javascriptMode: JavascriptMode.unrestricted,
           onWebViewCreated: (WebViewController webViewController) {
             _controller.complete(webViewController);
