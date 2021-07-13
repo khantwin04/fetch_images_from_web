@@ -1,6 +1,6 @@
 # getimages
 
-A new Flutter application.
+Fetch images from public webiste.
 
 ## Getting Started
 
